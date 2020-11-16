@@ -1,0 +1,11 @@
+!0.later don't forget to ask a group to add you in the remote project
+1. create a package Altynai
+2. create a java class Task001
+3. commit
+4. pull remote changes
+5. push your changes to remote
+6. new branch Altynai
+7. new java class under Altynai branch - Task002
+8. commit & push the branch to remote
+9. open a pull request (get merged by the leader)
+10. pull the cnahges from remo to local
