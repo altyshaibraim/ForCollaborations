@@ -1,7 +1,8 @@
                   FOR COLLABORATIONS:
    AS A TEAM LEADER:
    On IntelliJ:
-   File -> Project -> VCS -> Enable Version Control -> .gitignore (.out, .idea) -> Commit changes -> VCS -> Import into Version Control -> Share Project on GitHub
+   File -> Project -> VCS -> Enable Version Control -> .gitignore (.out, .idea) -> Commit changes -> VCS ->
+                                                                  Import into Version Control -> Share Project on GitHub
    
    On GHW:
    The Project -> Settings -> Manage Access -> invite collaborators by their username
@@ -10,5 +11,5 @@
    AS A COLLABORATOR:
    !!! join the invitation on by email
    On IntelliJ:
-   File -> Project From Version Control -> Copy URL (on the invitation email OR from the green CODE button on GHW) and Paste -> Clone
+   File -> New -> Project From Version Control -> Copy URL (on the invitation email OR from the green CODE button on GHW) and Paste -> Clone
                   
